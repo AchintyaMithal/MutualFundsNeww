@@ -248,3 +248,4 @@ D:\New folder (2)\Mutual Fund Microservice\MutualFund\obj\Debug\net5.0\MutualFun
 D:\New folder (2)\Mutual Fund Microservice\MutualFund\obj\Debug\net5.0\ref\MutualFund.dll
 D:\New folder (2)\Mutual Fund Microservice\MutualFund\obj\Debug\net5.0\MutualFund.pdb
 D:\New folder (2)\Mutual Fund Microservice\MutualFund\obj\Debug\net5.0\MutualFund.genruntimeconfig.cache
+D:\New folder (2)\Mutual Fund Microservice\MutualFund\bin\Debug\net5.0\Deployment.yml

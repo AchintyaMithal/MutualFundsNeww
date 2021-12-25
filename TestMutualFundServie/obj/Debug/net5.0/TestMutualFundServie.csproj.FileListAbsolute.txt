@@ -440,3 +440,4 @@ D:\New folder (2)\Mutual Fund Microservice\TestMutualFundServie\obj\Debug\net5.0
 D:\New folder (2)\Mutual Fund Microservice\TestMutualFundServie\obj\Debug\net5.0\ref\TestMutualFundServie.dll
 D:\New folder (2)\Mutual Fund Microservice\TestMutualFundServie\obj\Debug\net5.0\TestMutualFundServie.pdb
 D:\New folder (2)\Mutual Fund Microservice\TestMutualFundServie\obj\Debug\net5.0\TestMutualFundServie.genruntimeconfig.cache
+D:\New folder (2)\Mutual Fund Microservice\TestMutualFundServie\bin\Debug\net5.0\Deployment.yml

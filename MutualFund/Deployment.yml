@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mutualfund
-        image: mycontainerreg25.azurecr.io/mutualfunfimage:latest
+        image: pmscontainerreg.azurecr.io/mutualfundsimage:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:

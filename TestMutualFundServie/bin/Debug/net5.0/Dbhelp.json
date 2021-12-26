@@ -10,11 +10,26 @@
         "MutualFundName": "AXIS",
         "MutualFundValue": "20"
       },
-      {
-        "MutualFundId": 3,
-        "MutualFundName": "ICICI",
-        "MutualFundValue": "20"
-      }
-    ]
+  {
+    "MutualFundId": 3,
+    "MutualFundName": "ICICI",
+    "MutualFundValue": "20"
+  },
+  {
+    "MutualFundId": 4,
+    "MutualFundName": "PARAG",
+    "MutualFundValue": "20"
+  },
+  {
+    "MutualFundId": 5,
+    "MutualFundName": "SBI",
+    "MutualFundValue": "20"
+  },
+  {
+    "MutualFundId": 6,
+    "MutualFundName": "PAREKH",
+    "MutualFundValue": "20"
+  }
+ ]
   
 
